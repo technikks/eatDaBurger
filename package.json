@@ -1,5 +1,5 @@
 {
-  "name": "homework-13",
+  "name": "eat-da-burger",
   "version": "1.0.0",
   "description": "Burger Logger: Node, Express, Handlebars",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brittanymorrisdesign/Homework-13.git"
+    "url": "git+https://github.com/technikks/eatDaBurger"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brittanymorrisdesign/Homework-13/issues"
+    "url": "https://github.com/technikks/eatDaBurgerissues"
   },
-  "homepage": "https://github.com/brittanymorrisdesign/Homework-13#readme",
+  "homepage": "https://github.com/technikks/eatDaBurger",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",

@@ -86,7 +86,7 @@ h2 {
   }
   
   button {
-    background-color: #348056;
+    background-color: #D3D3D3;
     border: thin solid transparent;
     border-radius: 6px;
     color: #fff;
@@ -98,7 +98,7 @@ h2 {
   }
   
   button:focus, button:hover, button:active {
-    border: thin solid #348056;
+    border: thin solid #D3D3D3;
     background-color: transparent;
     color: #222f66;
     outline: none !important;
