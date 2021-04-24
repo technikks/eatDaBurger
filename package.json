@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "eatDaBurger",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoffman1200/burger.git"
+    "url": "git+https://github.com/technikks/eatDaBurger"
   },
   "author": "@hoffman1200",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hoffman1200/burger/issues"
+    "url": "https://github.com/technikks/eatDaBurger/issues"
   },
-  "homepage": "https://github.com/hoffman1200/burger#readme",
+  "homepage": "https://github.com/technikks/eatDaBurger",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
