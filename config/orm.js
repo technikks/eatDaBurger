@@ -2,7 +2,6 @@ var connection = require("./connection");
 
 var orm = {
     selectAll: (table, cb) => {
-        // console.log(table);
         var queryString = "SELECT * FROM " + table + ";";
         connection.query(queryString, (err, result) => {
             if (err) {
@@ -12,9 +11,6 @@ var orm = {
         });
     },
     insertOne: (table, column, value, cb) => {
-        // console.log("this is table: " + table);
-        // console.log("this is column" + column);
-        // console.log("this is value" + value);
         var queryString = "INSERT INTO ?? (??) VALUES (?)";
         connection.query(queryString, [table, column, value], (err, res) => {
             if(err) throw err;
