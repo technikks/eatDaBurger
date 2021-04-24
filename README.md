@@ -2,7 +2,7 @@
 
 
 ## Deployed URL
-Coming soon :) 
+(https://eat-da-burger-bootcamp-hw13.herokuapp.com/)
 
 
 ## Description
